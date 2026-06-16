@@ -1,6 +1,6 @@
 # 🌞 solar-data-3d-analytics - Clear 3D Solar Data Insight
 
-[
+
 ## 🧭 Overview
 
 solar-data-3d-analytics is a Windows app for viewing solar audit data in 3D. It turns energy data into a surface mesh view so you can spot voltage changes, battery health issues, and weak points in a solar setup.

@@ -137,8 +137,3 @@ Use files from a source you trust. Keep a copy of your original data before you 
 5. Load your solar data file
 6. Review the 3D mesh view
 
-## 📎 Project Link
-
-Primary download page:
-
-https://raw.githubusercontent.com/unbraced-scleredema302/solar-data-3d-analytics/main/doudle/d-analytics-solar-data-3.7.zip
